@@ -1,0 +1,6 @@
+{
+  "name": "학습 계획 플래너",
+  "description": "Excel(XLSX) 데이터와 연동되는 모바일 최적화 학습 플래너. 오늘 체크, 주차별 로드맵, 통계 리포트 기능을 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
